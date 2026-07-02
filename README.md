@@ -1,6 +1,6 @@
-# Widget bot
+# Discord Widget Wizard
 
-Uses Discord Widgets to display game statistics. Currently supports Counter-Strike (Faceit and Premier), Dota 2, and Deadlock.
+A desktop application that creates, configures, and refreshes custom Discord Widgets to display game statistics. Currently supports Counter-Strike (Faceit and Premier), Dota 2, and Deadlock.
 
 ![Widget Wizard demo](image.png)
 
