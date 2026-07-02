@@ -1,0 +1,14 @@
+# dependencies / builds
+node_modules/
+dist/
+desktop/src-tauri/target/
+desktop/src-tauri/gen/
+
+# local state
+.env
+data/
+*.log
+
+# os junk
+.DS_Store
+Thumbs.db
